@@ -1,6 +1,6 @@
 ### 👋
 - 😄 Pronouns: He / Him
-- 🔭 I’m currently working on environmental projects on [Vizzuality](//www.vizzuality.com) ([Half-Earth](https://map.half-earthproject.org/)) , [Trase](//www.trase.earth), [Climate Watch](//www.climatewatchdata.com))
+- 🔭 I’m currently working on environmental projects on [Vizzuality](//www.vizzuality.com) ([Half-Earth](https://map.half-earthproject.org/) , [Trase](//www.trase.earth), [Climate Watch](//www.climatewatchdata.com))
 - 🌱 I’m currently learning WebGL, React-three-fiber, Trombone, Neo-soul and Jazz harmony
 
 <!--
