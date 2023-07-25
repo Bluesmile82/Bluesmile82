@@ -1,7 +1,7 @@
 ### 👋 I'm Álvaro
 - 😄 Pronouns: He / Him
 - 🔭 I’m a data-visualization frontend engineer currently working on environmental projects on [Vizzuality](//www.vizzuality.com) ([Half-Earth](https://map.half-earthproject.org/) , [Trase](//www.trase.earth), [Climate Watch](//www.climatewatchdata.com))
-- 🌱 I’m currently learning WebGL, React-three-fiber, Trombone, Neo-soul and Jazz harmony
+- 🌱 I’m currently learning Langchain, React-three-fiber, Trombone, Neo-soul and Jazz harmony
 
 <!--
 **Bluesmile82/Bluesmile82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
